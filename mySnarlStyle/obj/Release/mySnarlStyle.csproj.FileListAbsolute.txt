@@ -1,0 +1,10 @@
+C:\Users\Sven\Documents\Visual Studio 2008\Projects\mySnarlStyle\mySnarlStyle\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Sven\Documents\Visual Studio 2008\Projects\mySnarlStyle\mySnarlStyle\obj\Release\Interop.libSnarlStyles.dll
+C:\Users\Sven\Documents\Visual Studio 2008\Projects\mySnarlStyle\mySnarlStyle\obj\Release\Interop.melon.dll
+C:\Users\Sven\Documents\Visual Studio 2008\Projects\mySnarlStyle\mySnarlStyle\obj\Release\mySnarlStyle.csproj.ResolveComReference.cache
+C:\Users\Sven\Documents\Visual Studio 2008\Projects\mySnarlStyle\mySnarlStyle\bin\Release\mySnarlStyle.dll
+C:\Users\Sven\Documents\Visual Studio 2008\Projects\mySnarlStyle\mySnarlStyle\bin\Release\mySnarlStyle.pdb
+C:\Users\Sven\Documents\Visual Studio 2008\Projects\mySnarlStyle\mySnarlStyle\bin\Release\Interop.libSnarlStyles.dll
+C:\Users\Sven\Documents\Visual Studio 2008\Projects\mySnarlStyle\mySnarlStyle\bin\Release\Interop.melon.dll
+C:\Users\Sven\Documents\Visual Studio 2008\Projects\mySnarlStyle\mySnarlStyle\obj\Release\mySnarlStyle.dll
+C:\Users\Sven\Documents\Visual Studio 2008\Projects\mySnarlStyle\mySnarlStyle\obj\Release\mySnarlStyle.pdb
